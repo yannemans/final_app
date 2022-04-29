@@ -1,16 +1,10 @@
 # final_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ik heb deze app gemaakt voor de dutch coding company.
+ ik heb hulp gehad van een aantal tutorial videos.
+ ook heb ik al eerder een aantal kleine projectjes gemaakt om wat beter te verdiepen in flutter,
+ het langste ben ik bezig geweest met het toevoegen en werkend krijgen van het api. 
+ hiervoor ben ik uiteindelijk een tutorial video gaan volgen.
+ ik ben niet heel blij met het eindproduct naar de maatstaven van de opdracht maar ik hoop dat dit in de toekomst nog verder verbeterd kan worden met dat ik mijn kennis van flutter uitbreid 
+ 
+ voor vragen graag mailen naar
+ yannemans@gmail.com
